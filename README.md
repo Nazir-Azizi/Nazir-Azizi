@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Nazir-Azizi/Nazir-Azizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nazir and here’s a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: Python and DSA
+- 👨‍💻 I’m working on: Fully functional calculator with GUI
+- 💬 Ask me about: Data structure and Algorithms
+- 📫 How to reach me: nazirazizis123456@gmail.com
+- ⚡ Fun fact: I think in code ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- Programming: Java, Python, JavaScript, C++, C
+- Web Development: HTML, CSS, React, Node.js
+- Other: Git, SQL, SQL Server.
+
+## My Projects
+Here are some of my favorite projects:
+- 
+- 
+
+## Contact Me
+- 📧 Email: nazirazizis123456@gmail.com
+- 🌐 https://www.linkedin.com/in/nazir-azizi-8624302aa
