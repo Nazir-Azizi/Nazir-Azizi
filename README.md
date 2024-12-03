@@ -15,8 +15,8 @@ I’m Nazir and here’s a little about me:
 
 ## My Projects
 Here are some of my favorite projects:
-- 
-- 
+- Implementation of data structures: https://github.com/Nazir-Azizi/data-structure
+- Collection API in JAVA: 
 
 ## Contact Me
 - 📧 Email: nazirazizis123456@gmail.com
