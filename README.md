@@ -9,15 +9,16 @@ I’m Nazir and here’s a little about me:
 - ⚡ Fun fact: I think in code ;)
 
 ## My Skills
-- Programming: Java, Python, JavaScript, C++, C
-- Web Development: HTML, CSS, React, Node.js
-- Other: Git, SQL, SQL Server.
+- Programming: Java, Python, C++, C
+- Web Development: HTML, CSS
+- Other: Git, Github, SQL, SQL Server.
 
 ## My Projects
 Here are some of my favorite projects:
 - Implementation of data structures: https://github.com/Nazir-Azizi/data-structures-in-java
 - Implementation of algorithms: https://github.com/Nazir-Azizi/algorithms-in-java
-- Window calculator: 
+- Window calculator:
+- Leetcode Solution: https://github.com/Nazir-Azizi/leetcode-solution/
 
 ## Contact Me
 - 📧 Email: nazirazizis123456@gmail.com
