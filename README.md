@@ -2,14 +2,14 @@
 
 I’m Nazir and here’s a little about me:
 
-- 🌱 I’m currently learning: Python and DSA
-- 👨‍💻 I’m working on: Fully functional calculator with GUI
-- 💬 Ask me about: Data structure and Algorithms
+- 🌱 I’m currently learning: JavaFx and DSA
+- 👨‍💻 I’m working on: School Management System using JavaFx
+- 💬 Ask me about: Data structures, Algorithms and Java
 - 📫 How to reach me: nazirazizis123456@gmail.com
 - ⚡ Fun fact: I think in code ;)
 
 ## My Skills
-- Programming: Java, Python, C++, C
+- Programming: Java, JavaFx, Python, C++, C
 - Web Development: HTML, CSS
 - Other: Git, Github, SQL, SQL Server.
 
