@@ -19,6 +19,7 @@ Here are some of my favorite projects:
 - Implementation of algorithms: https://github.com/Nazir-Azizi/algorithms-in-java
 - Window calculator:
 - Leetcode Solution: https://github.com/Nazir-Azizi/leetcode-solution/
+- Solar System in Javafx: https://github.com/Nazir-Azizi/Solar-System-in-javafx/
 
 ## Contact Me
 - 📧 Email: nazirazizis123456@gmail.com
