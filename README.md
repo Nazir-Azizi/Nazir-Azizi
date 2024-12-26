@@ -17,7 +17,7 @@ I’m Nazir and here’s a little about me:
 Here are some of my favorite projects:
 - Implementation of data structures: https://github.com/Nazir-Azizi/data-structures-in-java
 - Implementation of algorithms: https://github.com/Nazir-Azizi/algorithms-in-java
-- Window calculator:
+- Window calculator: https://github.com/Nazir-Azizi/Windows-Calculator
 - Leetcode Solution: https://github.com/Nazir-Azizi/leetcode-solution/
 - Solar System in Javafx: https://github.com/Nazir-Azizi/Solar-System-in-javafx/
 
