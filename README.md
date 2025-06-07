@@ -9,7 +9,7 @@ I’m Nazir and here’s a little about me:
 - ⚡ Fun fact: I think in code ;)
 
 ## My Skills
-- Programming: Java, JavaFx, Python, C++, C, Kotlin
+- Programming: Java, JavaFx, Python, C++, C, Kotlin, C#, WPF
 - Web Development: HTML, CSS
 - Other: Git, Github, SQL, SQL Server.
 
@@ -19,6 +19,7 @@ Here are some of my favorite projects:
 - Windows calculator: https://github.com/Nazir-Azizi/Windows-Calculator
 - Leetcode Solution: https://github.com/Nazir-Azizi/leetcode-solution/
 - Solar System in Javafx: https://github.com/Nazir-Azizi/Solar-System-in-javafx/
+- Educational Center Management System: https://github.com/Nazir-Azizi/Educational_Center_Management_System
 
 ## Contact Me
 - 📧 Email: nazirazizis123456@gmail.com
