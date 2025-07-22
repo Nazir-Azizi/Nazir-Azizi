@@ -11,14 +11,11 @@ I’m Nazir and here’s a little about me:
 ## My Skills
 - Programming: Java, JavaFx, Python, C++, C, Kotlin, C#, WPF
 - Web Development: HTML, CSS
-- Other: Git, Github, SQL, SQL Server.
+- Other: Git, Github, MySQL, SQL Server.
 
 ## My Projects
 Here are some of my favorite projects:
-- Implementation of data structures: https://github.com/Nazir-Azizi/data-structures-in-java
-- Windows calculator: https://github.com/Nazir-Azizi/Windows-Calculator
 - Leetcode Solution: https://github.com/Nazir-Azizi/leetcode-solution/
-- Solar System in Javafx: https://github.com/Nazir-Azizi/Solar-System-in-javafx/
 - Educational Center Management System: https://github.com/Nazir-Azizi/Educational_Center_Management_System
 
 ## Contact Me
