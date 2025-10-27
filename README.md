@@ -1,39 +1,37 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Nazir
 
-I'm a university student diving deep into [your field — e.g., computer science, data science, cybersecurity, etc.].  
-I build, break, and rebuild things to understand them better — from [specific area, e.g., machine learning systems] to [secondary interest, e.g., backend development or algorithms].  
+I'm a university student diving deep into Machine Learning and Math.  
+I build, break, and rebuild things to understand them better — from machine learning systems to backend development or algorithms.  
 
-> “I care less about writing perfect code and more about solving real problems that matter.”
-
----
-
-### 🔭 Current Focus
-- Building [project name or area, e.g., an AI-driven text analyzer using Python + Hugging Face]  
-- Learning [technology, e.g., Rust or cloud infrastructure]  
-- Researching [topic, e.g., data ethics / privacy in machine learning]
+> “I care more about solving real problems that matter.”
 
 ---
 
-### ⚙️ Tech & Tools
-**Languages:** Python • C++ • JavaScript • [others you actually use]  
-**Frameworks / Libraries:** TensorFlow • React • FastAPI • [etc.]  
-**Tools:** Git • Docker • VS Code • Linux • [any relevant ones]  
-
-*(If you’re learning something new, list it here with a 🔧 emoji.)*
+### Current Focus
+- Building 
+- Learning Machine learning algorithms and Math  
+- Researching 
 
 ---
 
-### 📂 Featured Projects
-- **[Project Name](link-to-repo)** — One-liner describing what it does and why it’s interesting.  
-- **[Project Name](link-to-repo)** — Highlight a cool technical or conceptual detail.  
-- **[Project Name](link-to-repo)** — If you’ve published something, link to it.  
+### Tech & Tools
+**Languages:** Python • C++ • Java • Kotlin • C#  
+**Frameworks / Libraries:** NumPy • ASP.Net
+**Tools:** Git • VS Code  
+
+---
+
+### Featured Projects
+- **[City Profit Linear Regression]([link-to-repo](https://github.com/Nazir-Azizi/city-profit-linear-regression))** — Predicts which city is more profitable for restautants based on population.  
+- **[Housing Price Multiple Linear Regression]([link-to-repo](https://github.com/Nazir-Azizi/housing-price-regression-model))** — Predicts house price based on the size and number of bedrooms.  
+- **[Education Center Management System]([link-to-repo](https://github.com/Nazir-Azizi/Educational_Center_Management_System))** — Windows app that helps schools manage students and teachers.  
 
 ---
 
 ### 🧠 What I’m Into
-- Human + AI collaboration  
-- Systems that scale efficiently  
-- Open-source projects that challenge comfort zones  
+- Math
+-  
+-  
 
 ---
 
