@@ -1,47 +1,48 @@
 # Hey, I'm Nazir
 
-I'm a university student diving deep into Machine Learning, Data Science and Math.  
-I build, break, and rebuild things to understand them better — from machine learning systems to backend development or algorithms.  
-
-> “I care more about solving real problems that matter.”
+I'm on my last year of university as a CS student. I am focusing on problem solving and full-stack web development. I am really interested in algorithms and do competitive programming as a hobby.
 
 ---
 
 ### Current Focus
-- Building ML model to predict house price
-- Learning Data Science, Machine learning algorithms and Math  
+- Learning Express
+- Designing an AI-assisted programming and problem-solving training platform with custom evaluation system
 
 ---
 
 ### Tech & Tools
-**Languages:** Python • C++ • Java • Kotlin • C#  
-**Frameworks / Libraries:** NumPy • ASP.Net
-**Tools:** Git • VS Code  
+**Languages:** JavaScript • TypeScript • HTML • CSS • SQL 
+
+**Frameworks / Libraries:** React • Express 
+
+**Tools:** Git • GitHub • Docker • npm 
 
 ---
 
 ### Featured Projects
-- **[City Profit Linear Regression](https://github.com/Nazir-Azizi/city-profit-linear-regression)** — Predicts which city is more profitable for restautants based on population.  
-- **[Housing Price Multiple Linear Regression](https://github.com/Nazir-Azizi/housing-price-regression-model)** — Predicts house price based on the size and number of bedrooms.  
+- **[Simple Todo app](https://github.com/Nazir-Azizi/todo-app)** — Users can add, delete and reorder their tasks.  
+- **[Ecommerce Project](https://github.com/Nazir-Azizi/ecommerce-project)** — Ecommerce project with backend.  
 - **[Education Center Management System](https://github.com/Nazir-Azizi/Educational_Center_Management_System)** — Windows app that helps schools manage students and teachers.  
 
 ---
 
 ### What I’m Into
-- Math
 - Problem Solving in Leetcode and Codeforces
-- Drawing
+- System Design
+- Learning new tech
 
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/nazir-azizi-8624302aa) • [Email](mailto:nazirazizis123456@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/nazir-azizi-8624302aa)
+
+Email: m.nazir.azizi03@gmail.com  
 
 ---
 
-### 📊 GitHub Stats (Optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazir-Azizi&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazir-Azizi&layout=compact)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nazir-Azizi&show_icons=true&theme=default)  
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Nazir-Azizi&layout=compact)
 
 ---
 
